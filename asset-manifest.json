@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-fb-navbar/static/css/main.444cefb9.chunk.css",
+    "main.js": "/react-fb-navbar/static/js/main.a4f97107.chunk.js",
+    "main.js.map": "/react-fb-navbar/static/js/main.a4f97107.chunk.js.map",
+    "runtime-main.js": "/react-fb-navbar/static/js/runtime-main.4f1a4e23.js",
+    "runtime-main.js.map": "/react-fb-navbar/static/js/runtime-main.4f1a4e23.js.map",
+    "static/js/2.2fcf967f.chunk.js": "/react-fb-navbar/static/js/2.2fcf967f.chunk.js",
+    "static/js/2.2fcf967f.chunk.js.map": "/react-fb-navbar/static/js/2.2fcf967f.chunk.js.map",
+    "index.html": "/react-fb-navbar/index.html",
+    "precache-manifest.7a2a68008de8614942d7ad5cc6857416.js": "/react-fb-navbar/precache-manifest.7a2a68008de8614942d7ad5cc6857416.js",
+    "service-worker.js": "/react-fb-navbar/service-worker.js",
+    "static/css/main.444cefb9.chunk.css.map": "/react-fb-navbar/static/css/main.444cefb9.chunk.css.map",
+    "static/js/2.2fcf967f.chunk.js.LICENSE.txt": "/react-fb-navbar/static/js/2.2fcf967f.chunk.js.LICENSE.txt",
+    "static/media/chevron-left.c7552ce8.svg": "/react-fb-navbar/static/media/chevron-left.c7552ce8.svg",
+    "static/media/chevron-right.fa19fd03.svg": "/react-fb-navbar/static/media/chevron-right.fa19fd03.svg",
+    "static/media/cog.0868da60.svg": "/react-fb-navbar/static/media/cog.0868da60.svg",
+    "static/media/down-arrow.ca82bc74.svg": "/react-fb-navbar/static/media/down-arrow.ca82bc74.svg",
+    "static/media/messenger.191410cf.svg": "/react-fb-navbar/static/media/messenger.191410cf.svg",
+    "static/media/notification.9c07e980.svg": "/react-fb-navbar/static/media/notification.9c07e980.svg",
+    "static/media/plus-i.d0f5911d.svg": "/react-fb-navbar/static/media/plus-i.d0f5911d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1a4e23.js",
+    "static/js/2.2fcf967f.chunk.js",
+    "static/css/main.444cefb9.chunk.css",
+    "static/js/main.a4f97107.chunk.js"
+  ]
+}
